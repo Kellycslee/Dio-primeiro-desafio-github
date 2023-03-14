@@ -1,0 +1,22 @@
+Comandos básicos
+Para minha máquina Windows
+- git init iniciar o repositorio do git
+- git add mover arquivos e começar o versionamento
+- git commit
+- cd navega entre as pastas
+- dir diretórios
+- mkdir cria uma pasta / comando >echo > cria arquivo dentro da pasta
+- del/rmdir del nome da pasta e sim/ rmdir nome da pasta /S /Q enter
+- ls lista
+- cd .. sai da pasta
+- cls limpa terminal
+- tab auto completa
+- seta pra cima navega entre os comandos digitados
+
+Para criar repositório no github passo a passo
+Logado no github ir até a opção new repository/ escolha um nome / descreva breve relato / e flegue a opção add a README file e create repository
+Após ir no code e copiar com botão e colar no gitbash no comando git clone "cole HTPPS ou SSH" enter
+
+
+Caso tenha renomeado a pasta após o comando de git clone necessário apagar a pasta git e refazer o git clone
+
